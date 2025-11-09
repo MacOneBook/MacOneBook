@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MacOneBook</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<h3 align="center">A passionate full Stack developer from Turkey</h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **React** **ReactNative**
 
 - 📫 How to reach me **maconebook@gmail.com**
 
