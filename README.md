@@ -8,7 +8,7 @@
 💻 I'm a passionate **Full Stack Developer** currently focusing on **Frontend**, **Backend**, and **Mobile Development**.  
 🚀 I love turning ideas into beautiful, functional applications using modern technologies.
 
----
+
 
 ## 🧠 About Me
 - 🌱 I’m currently learning **React**, **React Native**, and exploring **Full Stack Development**
@@ -18,9 +18,9 @@
 
 ---
 
-
-## 🌐 Connect with Me:
+#### 🌐 Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haspheer) 
+
 
 
 # 🧰 My Dev Toolkit
@@ -33,34 +33,19 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-### 📊 GitHub Overview
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
-
-
-# 📊 GitHub Stats:
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MacOneBook&show_icons=true&theme=tokyonight)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MacOneBook&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MacOneBook&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### 📊 Overview:
+![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MacOneBook&show_icons=true&theme=tokyonight)<br/><br/>
+![Hassan's GitHub stats](https://nirzak-streak-stats.vercel.app/?user=MacOneBook&theme=aura&hide_border=false)
+![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MacOneBook&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MacOneBook&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=MacOneBook&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
