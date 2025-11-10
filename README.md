@@ -4,9 +4,6 @@
 
 
 
-
-
-
 💻 I'm a passionate **Full Stack Developer** currently focusing on **Frontend**, **Backend**, and **Mobile Development**.  
 🚀 I love turning ideas into beautiful, functional applications using modern technologies.
 
@@ -21,7 +18,10 @@
 ---
 
 #### 🔗 Connect with Me:
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haspheer)-->
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haspheer) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassan) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hassan@)-->
+
 <a href="https://instagram.com/haspheer" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="25" alt="Instagram">
 </a>
@@ -29,9 +29,6 @@
 <a href="https://linkedin.com/in/#" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="25" alt="LinkedIn">
 </a>
-
-
-
 
 
 ### 🧰 My Dev Toolkit
@@ -59,10 +56,6 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
 
 
-
-
-
-
 ### 📊 Overview:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MacOneBook&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api?username=MacOneBook&show_icons=true&theme=tokyonight)<br/><br/>
@@ -70,12 +63,9 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=MacOneBook&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=maconebook)
 
+<!--(_____________________________________________END CODE_____________________________________________)-->
 
 
 
