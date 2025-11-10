@@ -1,8 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi%2C+I'm+Hassan!;Full+Stack+Developer;React+%7C+React+Native+%7C+NodeJS)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:3A0CA3&height=200&section=header&text=Hi%2C%20I'm%20Hassan!%20👋&fontSize=30&fontColor=fff)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;React+%7C+React+Native+%7C+NodeJS)](https://git.io/typing-svg)
 
 
 
-### 👋🏼 Hi, I'm Hassan!
+
+
 
 💻 I'm a passionate **Full Stack Developer** currently focusing on **Frontend**, **Backend**, and **Mobile Development**.  
 🚀 I love turning ideas into beautiful, functional applications using modern technologies.
@@ -59,6 +62,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=MacOneBook&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=maconebook)
+![](https://komarev.com/ghpvc/?username=kampheer&color=blueviolet)
 
 
 
