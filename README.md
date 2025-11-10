@@ -26,9 +26,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="25" alt="Instagram">
 </a>
 
-<!--<a href="https://linkedin.com/in/#" target="_blank">
+<a href="https://linkedin.com/in/#" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="25" alt="LinkedIn">
-</a>-->
+</a>
 
 
 ### 🧰 My Dev Toolkit
