@@ -7,6 +7,7 @@
 
 
 
+
 💻 I'm a passionate **Full Stack Developer** currently focusing on **Frontend**, **Backend**, and **Mobile Development**.  
 🚀 I love turning ideas into beautiful, functional applications using modern technologies.
 
@@ -22,6 +23,9 @@
 
 #### 🔗 Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haspheer) 
+<a href="https://instagram.com/haspheer" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="25" alt="Instagram">
+</a>
 
 
 
