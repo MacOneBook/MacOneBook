@@ -4,6 +4,14 @@
 
 
 
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=200&section=header&text=Hi%2C%20I'm%20Hassan!%20🚀&fontSize=30&fontColor=fff)
+
+
+
+
+
+
 💻 I'm a passionate **Full Stack Developer** currently focusing on **Frontend**, **Backend**, and **Mobile Development**.  
 🚀 I love turning ideas into beautiful, functional applications using modern technologies.
 
