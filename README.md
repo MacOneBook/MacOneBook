@@ -11,10 +11,10 @@
 
 
 ### 🧠 About Me
-- 🌱 I’m currently learning **React**, **React Native**, and exploring **Full Stack Development**
-- 💡 I enjoy creating user-friendly interfaces and efficient backend systems
-- 📱 Passionate about building mobile apps that make an impact
-- ⚡ Fun fact: I spend hours perfecting UI animations and clean code
+-  I’m currently learning **React**, **React Native**, and exploring **Full Stack Development**
+-  I enjoy creating user-friendly interfaces and efficient backend systems
+-  Passionate about building mobile apps that make an impact
+-  Fun fact: I spend hours perfecting UI animations and clean code
 
 ---
 
