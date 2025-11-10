@@ -78,18 +78,9 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="wave" />
 </p>
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,100:0044ff&height=120&section=footer" alt="footer wave"/>
 </p>
-
-
-
-
-
-
-
-
 
 
 
