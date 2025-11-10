@@ -5,11 +5,6 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=200&section=header&text=Hi%2C%20I'm%20Hassan!%20🚀&fontSize=30&fontColor=fff)
-
-
-
-
 
 
 💻 I'm a passionate **Full Stack Developer** currently focusing on **Frontend**, **Backend**, and **Mobile Development**.  
@@ -28,9 +23,7 @@
 #### 🔗 Connect with Me:
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haspheer)-->
 
-<a href="https://instagram.com/haspheer" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="25" alt="Instagram">
-</a>
+
 
 
 
@@ -72,6 +65,14 @@
 ![](https://github-contributor-stats.vercel.app/api?username=MacOneBook&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://instagram.com/haspheer" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="25" alt="Instagram">
+</a>
+
+<a href="https://linkedin.com/in/yourusername" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" alt="LinkedIn">
+</a>
+
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=maconebook)
 
