@@ -9,7 +9,7 @@
 
 
 
-### 👨🏻‍💻 About Me
+#### 👨🏻‍💻 About Me
 -  I’m currently learning **React**, **React Native**, and exploring **Full Stack Development**
 -  I enjoy creating user-friendly interfaces and efficient backend systems
 -  Passionate about building mobile apps that make an impact
@@ -31,7 +31,7 @@
 </a>
 
 
-### 🧰 My Dev Toolkit
+#### 🧰 My Dev Toolkit
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
@@ -56,7 +56,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
 
 
-### 📊 Overview:
+#### 📊 Overview:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MacOneBook&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api?username=MacOneBook&show_icons=true&theme=tokyonight)<br/><br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MacOneBook&theme=tokyonight&hide_border=false)<br/>
