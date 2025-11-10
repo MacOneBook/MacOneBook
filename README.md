@@ -12,7 +12,7 @@
 
 
 
-### 🧠 About Me
+### 👨🏻‍💻 About Me
 -  I’m currently learning **React**, **React Native**, and exploring **Full Stack Development**
 -  I enjoy creating user-friendly interfaces and efficient backend systems
 -  Passionate about building mobile apps that make an impact
@@ -64,7 +64,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=maconebook)
-![](https://komarev.com/ghpvc/?username=kampheer&color=blueviolet)
+
 
 
 
