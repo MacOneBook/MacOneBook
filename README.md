@@ -2,7 +2,7 @@
 
 
 
-### 👋 Hi, I'm Hassan!
+### 👋🏼 Hi, I'm Hassan!
 
 💻 I'm a passionate **Full Stack Developer** currently focusing on **Frontend**, **Backend**, and **Mobile Development**.  
 🚀 I love turning ideas into beautiful, functional applications using modern technologies.
@@ -46,13 +46,14 @@
 
 
 ### 📊 Overview:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MacOneBook&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MacOneBook&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api?username=MacOneBook&show_icons=true&theme=tokyonight)<br/><br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MacOneBook&theme=aura&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=MacOneBook&theme=tokyonight&hide_border=false)<br/>
 
-![](https://github-contributor-stats.vercel.app/api?username=MacOneBook&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=MacOneBook&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
