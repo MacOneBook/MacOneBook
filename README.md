@@ -65,7 +65,7 @@
 
 
 ### 📊 Overview:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MacOneBook&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MacOneBook&theme=tokyonight&hide_border=false&layout=compact)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api?username=MacOneBook&show_icons=true&theme=tokyonight)<br/><br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MacOneBook&theme=tokyonight&hide_border=false)<br/>
 
@@ -82,6 +82,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,100:0044ff&height=120&section=footer" alt="footer wave"/>
 </p>
+
+
 
 
 
