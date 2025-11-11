@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:3A0CA3&height=200&section=header&text=Hi%2C%20I'm%20Hassan!%20👋🏼&fontSize=40&fontColor=fff)
 
+<img src="https://cdnl.iconscout.com/lottie/premium/thumb/programming-animated-icon-gif-download-11871363.gif" width="100" alt="coding animation">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;React+%7C+React+Native+%7C+NodeJS)](https://git.io/typing-svg)
 
 
@@ -64,7 +66,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
 
 
-### 📊 Overview:
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Overview:**
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MacOneBook&theme=tokyonight&hide_border=false&layout=compact)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api?username=MacOneBook&show_icons=true&theme=tokyonight)<br/><br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MacOneBook&theme=tokyonight&hide_border=false)<br/>
@@ -84,10 +86,12 @@
 </p>
 
 
-
-
-
 <!--(_____________________________________________END CODE_____________________________________________)-->
+
+
+
+
+
 
 
 
