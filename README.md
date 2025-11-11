@@ -97,6 +97,10 @@
 
 -->
 
+<p align="left" style="white-space: nowrap;">
+  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/programming-animated-icon-gif-download-11871363.gif" width="100" alt="coding animation" style="display: inline-block; vertical-align: middle;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;React+%7C+React+Native+%7C+NodeJS" width="435" alt="Typing SVG" style="display: inline-block; vertical-align: middle;">
+</p>
 
 
 
