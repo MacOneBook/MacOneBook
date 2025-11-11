@@ -1,8 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:3A0CA3&height=200&section=header&text=Hi%2C%20I'm%20Hassan!%20👋🏼&fontSize=40&fontColor=fff)
 
-<img src="https://cdnl.iconscout.com/lottie/premium/thumb/programming-animated-icon-gif-download-11871363.gif" width="100" alt="coding animation">
+<p align="left">
+  <!-- Sol: GIF -->
+  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/programming-animated-icon-gif-download-11871363.gif" width="100" alt="coding animation" style="vertical-align: middle;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;React+%7C+React+Native+%7C+NodeJS)](https://git.io/typing-svg)
+  <!-- Sağ: Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;React+%7C+React+Native+%7C+NodeJS" width="435" alt="Typing SVG" style="vertical-align: middle;">
+</p>
 
 
 
@@ -87,6 +91,11 @@
 
 
 <!--(_____________________________________________END CODE_____________________________________________)-->
+
+<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;React+%7C+React+Native+%7C+NodeJS)](https://git.io/typing-svg)
+
+-->
 
 
 
