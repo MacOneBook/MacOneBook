@@ -10,13 +10,13 @@
 
 
 
-💻 I'm a passionate **Full Stack Developer** currently focusing on **Frontend**, **Backend**, and **Mobile Development**.  
+💻 I'm a passionate **Full-Stack Developer** currently focusing on **Frontend**, **Backend**, and **Mobile Development**.  
 🚀 I love turning ideas into beautiful, functional applications using modern technologies.
 
 
 
 ### 👨🏻‍💻 About Me
--  I’m currently learning **React**, **React Native**, and exploring **Full Stack Development**
+-  Currently learning **React** and **React Native**, and exploring **full-stack development**
 -  I enjoy creating user-friendly interfaces and efficient backend systems
 -  Passionate about building mobile apps that make an impact
 -  Fun fact: I spend hours perfecting UI animations and clean code
